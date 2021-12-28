@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khanmomodou11
-- 👀 I’m interested in always in developing myself in the IT sectore. Building my career as a web developer make to be passionate about latest web trending technologies availabe that can assit my work
-- 🌱 I’m a worpress developer and designer, I do freelancing as my career and take on projects ranging from small ones to big complex projects like ecommerce sites, 
+- 👀 I’m interested always in developing myself in the IT sector. Building my career as a web developer makes me to be passionate about latest web trending technologies availabe that can assit my work
+- 🌱 I’m a worpress developer and designer, I do freelancing as my career and take on projects ranging from small ones to big complex projects like e-commerce sites, 
 - 💞️ I’m looking to collaborate on reliable developers and also people who want me either to work with them or work for them
 - 📫 you can reach me through my @khanmomodou11@gmail.com or visit my personal portfolio @khanmomodou.blogspot.com
 
